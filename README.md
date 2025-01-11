@@ -48,7 +48,7 @@ The objectives of this project include:
 - Complete the web-based setup by creating an osTicket account and setting up the URL for end users to submit tickets.
 
 ## **Results**
-Successfully installed and configured osTicket software, ready to be logged into and customized to meet organziation needs.
+Successfully installed and configured osTicket software, ready to be logged into to be customized to meet organziation needs.
 
 ## **Screenshot of the Results**
 <p>With all prerequisites and recommended technologies installed, here's what the osticket web interface should look like:</p> 
